@@ -1,4 +1,3 @@
-mod bitcoin_service;
 mod hd_wallt;
 mod mnemonic;
 
